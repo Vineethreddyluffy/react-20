@@ -1,0 +1,39 @@
+.img-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.item-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 1;
+}
+.todo {
+  display: flex;
+  align-items: center;
+}
+.todo-cont {
+  padding: 10px;
+}
+.paraof {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #475569;
+  margin-right: 20px;
+}
+.Mpara {
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  margin-left: 30px;
+}
+.button {
+  border-width: 0px;
+  background-color: transparent;
+}
